@@ -1,4 +1,4 @@
 sonar.projectKey=java-jenkins-sonar
 sonar.sources=.
 
-/* adding comment to push
+/* adding comment to push 2
